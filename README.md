@@ -1,3 +1,3 @@
 # Competitive Programming
 
-My implementation of some of most commonly used algorithms
+My implementation of some of the most commonly used algorithms
